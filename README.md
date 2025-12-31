@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## 안녕하세요 조혜정입니다. 👋
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=JO+HYE+JEONG&fontSize=50&fontAlign=50&fontAlignY=50&desc=AI+Engineer%2C+Machine+Learning+Developer&descSize=20&descAlign=50&descAlignY=60)
 
