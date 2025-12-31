@@ -5,9 +5,11 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white) 
 
 **🛠️ Infra and Tools**
+
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 ### :green_book: Contact
