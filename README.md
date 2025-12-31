@@ -20,5 +20,5 @@
 * 머신러닝 연구실 - 학부 연구생
 
 ### :green_book: Contact
-* Email : jhj@gmail.com
+* Email : jhj14@gmail.com
 * Number : 010 - 0000 - 0000
